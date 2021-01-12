@@ -145,7 +145,7 @@ class addRecipeFrame(tk.Frame):
                 inputs[self.ingredientsOnScreen - 1].grid_forget()
                 self.ingredientsOnScreen = self.ingredientsOnScreen - 1
             while self.ingredientsOnScreen < num:
-                optionMenuForEachIngredient[self.ingredientsOnScreen].grid(row=self.ingredientsOnScreen + 2)
+                optionMenuForEachIngredient[self.ingredientsOnScreen].grid(row=self.ingredientsOnScreen + 3)
                 inputs[self.ingredientsOnScreen].grid(row=self.ingredientsOnScreen + 3, column=1)
                 self.ingredientsOnScreen = self.ingredientsOnScreen + 1
 
@@ -163,7 +163,6 @@ class addRecipeFrame(tk.Frame):
                 intVal = int(inputs[z].get())
                 a_dict[var[z].get()] = intVal
                 finalList.append(a_dict)
-                print(finalList)
             if len(finalList) is 0:
                 print("Error No item Added")
             else:

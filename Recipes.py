@@ -16,6 +16,7 @@ def importJSON(fileName):
 def updateFile(fileName, input):
     f = open(fileName,"w")
     data = json.dumps(input, indent=4)
+    print(data)
     f.truncate(0)
     f.write(data)
     f.close()

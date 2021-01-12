@@ -75,6 +75,31 @@
                     "Buns": 2
                 }
             ]
+        },
+        {
+            "Name": "James Burger",
+            "Items": [
+                {
+                    "Cheese": 2
+                },
+                {
+                    "Patty": 2
+                },
+                {
+                    "Lettuce": 1
+                },
+                {
+                    "Buns": 2
+                }
+            ]
+        },
+        {
+            "Name": "Cam Burger",
+            "Items": [
+                {
+                    "Lettuce": 5
+                }
+            ]
         }
     ]
 }
