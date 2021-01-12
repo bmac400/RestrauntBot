@@ -1,0 +1,80 @@
+{
+    "Recipes": [
+        {
+            "Name": "Hamburger",
+            "Items": [
+                {
+                    "Lettuce": 1
+                },
+                {
+                    "Patty": 1
+                },
+                {
+                    "Buns": 2
+                }
+            ]
+        },
+        {
+            "Name": "Cheese Burger",
+            "Items": [
+                {
+                    "Lettuce": 1
+                },
+                {
+                    "Patty": 1
+                },
+                {
+                    "Buns": 2
+                },
+                {
+                    "Cheese": 1
+                }
+            ]
+        },
+        {
+            "Name": "No Bun Burger",
+            "Items": [
+                {
+                    "Lettuce": 1
+                },
+                {
+                    "Patty": 1
+                },
+                {
+                    "Cheese": 1
+                }
+            ]
+        },
+        {
+            "Name": "Bmac Burger",
+            "Items": [
+                {
+                    "Lettuce": 1
+                },
+                {
+                    "Buns": 3
+                },
+                {
+                    "Patty": 3
+                }
+            ]
+        },
+        {
+            "Name": "Jared Burger",
+            "Items": [
+                {
+                    "Lettuce": 10
+                },
+                {
+                    "Patty": 2
+                },
+                {
+                    "Cheese": 5
+                },
+                {
+                    "Buns": 2
+                }
+            ]
+        }
+    ]
+}

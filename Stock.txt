@@ -1,0 +1,18 @@
+{
+    "Lettuce": {
+        "Quantity": 1987,
+        "Position": 1
+    },
+    "Patty": {
+        "Quantity": 108,
+        "Position": 2
+    },
+    "Buns": {
+        "Quantity": 937,
+        "Position": 3
+    },
+    "Cheese": {
+        "Quantity": 12,
+        "Position": 0
+    }
+}
